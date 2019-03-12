@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
-public class QuotientExceptionExample{
-
+public class QuotientExceptionExample
+{
+  Scanner input = new Scanner(System.in); 
 }
